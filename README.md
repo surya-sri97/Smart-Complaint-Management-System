@@ -13,19 +13,23 @@ Status
 Assigned Group
 Description
 Created Date
+
 2. Complaint Submission Form
 Users can submit complaints by providing:
 Area affected
 Location (Block/Floor/Room Number)
 Issue type
 Complaint description
+
 3. Ticket Generation
 After submission, the system automatically generates a unique complaint number:
 Example:
 CMP0001008
 which helps track complaints throughout their lifecycle.
+
 4. Service Catalog Integration
 A "Submit a Complaint" catalog item allows users to raise complaints easily from the Service Portal.
+
 5. Dashboard and Reports
 Interactive dashboard provides:
 Complaints by Category
